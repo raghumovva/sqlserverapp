@@ -1,0 +1,13 @@
+/Users/rmovva/Projects/sqlserverapp/sqlserverapp/obj/Release/net6.0/PubTmp/Out/sqlserverapp
+/Users/rmovva/Projects/sqlserverapp/sqlserverapp/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/rmovva/Projects/sqlserverapp/sqlserverapp/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/rmovva/Projects/sqlserverapp/sqlserverapp/obj/Release/net6.0/PubTmp/Out/sqlserverapp.dll
+/Users/rmovva/Projects/sqlserverapp/sqlserverapp/obj/Release/net6.0/PubTmp/Out/sqlserverapp.deps.json
+/Users/rmovva/Projects/sqlserverapp/sqlserverapp/obj/Release/net6.0/PubTmp/Out/sqlserverapp.runtimeconfig.json
+/Users/rmovva/Projects/sqlserverapp/sqlserverapp/obj/Release/net6.0/PubTmp/Out/sqlserverapp.pdb
+/Users/rmovva/Projects/sqlserverapp/sqlserverapp/obj/Release/net6.0/PubTmp/Out/System.Data.SqlClient.dll
+/Users/rmovva/Projects/sqlserverapp/sqlserverapp/obj/Release/net6.0/PubTmp/Out/runtimes/win-arm64/native/sni.dll
+/Users/rmovva/Projects/sqlserverapp/sqlserverapp/obj/Release/net6.0/PubTmp/Out/runtimes/win-x64/native/sni.dll
+/Users/rmovva/Projects/sqlserverapp/sqlserverapp/obj/Release/net6.0/PubTmp/Out/runtimes/win-x86/native/sni.dll
+/Users/rmovva/Projects/sqlserverapp/sqlserverapp/obj/Release/net6.0/PubTmp/Out/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/rmovva/Projects/sqlserverapp/sqlserverapp/obj/Release/net6.0/PubTmp/Out/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
